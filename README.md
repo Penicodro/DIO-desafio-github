@@ -2,7 +2,10 @@
 Repositório criado para o Desafio de Projeto, com finalidade de servir para anotações e atualizações do Curso "Primeiros Passos em Tecnologia" em parceria com o 1º Empregotech Curitiba.
 
 ## Onde me Encontro?
-- Atualmente fui introduzido a todo o universo do Git/GitHub e seus códigos. E agora, estou entrando na parte de HTML.
+- Já fui introduzido a todo o universo do Git/GitHub e seus códigos;
+- Já fui introduzido na parte de HTML (é possível ver o projeto HTML no repositório "x");
+- Já fui introduzido na parte de CSS (é possível ver o projeto CSS no repositório "x");
+- Atualmente me encontro no módulo de JavaScript.
 
 ## Links Úteis
 - [Basic Syntax MD](https://www.markdownguide.org/basic-syntax/)
