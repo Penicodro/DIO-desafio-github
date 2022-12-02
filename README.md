@@ -3,7 +3,7 @@ Repositório criado para o Desafio de Projeto, com finalidade de servir para ano
 
 ## Onde me Encontro?
 - Já fui introduzido a todo o universo do Git/GitHub e seus códigos;
-- Já fui introduzido na parte de HTML (é possível ver o projeto HTML no repositório "x");
+- Já fui introduzido na parte de HTML (é possível ver o projeto HTML no repositório "DIO-projeto-HTML");
 - Já fui introduzido na parte de CSS (é possível ver o projeto CSS no repositório "x");
 - Atualmente me encontro no módulo de JavaScript.
 
@@ -12,6 +12,7 @@ Repositório criado para o Desafio de Projeto, com finalidade de servir para ano
 - [HTML Reference](https://www.w3schools.com/tags/default.asp)
 - [Patterns Gallery](https://projects.verou.me/css3patterns/)
 - [Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
+- [Box Shadow Generator](https://cssgenerator.org/box-shadow-css-generator.html)
 
 ## Comandos Úteis - Git
 - **dir:** lista de diretórios contidos na pasta que estamos situados; 
