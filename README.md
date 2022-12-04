@@ -3,16 +3,19 @@ Repositório criado para o Desafio de Projeto, com finalidade de servir para ano
 
 ## Onde me Encontro?
 - Já fui introduzido a todo o universo do Git/GitHub e seus códigos;
-- Já fui introduzido na parte de HTML (é possível ver o projeto HTML no repositório "DIO-projeto-HTML");
-- Já fui introduzido na parte de CSS (é possível ver o projeto CSS no repositório "x");
-- Atualmente me encontro no módulo de JavaScript.
+- Já fui introduzido na parte de HTML (é possível ver o projeto HTML no repositório "DIO-project-HTML");
+- Já fui introduzido na parte de CSS (é possível ver o projeto CSS no repositório "DIO-project-CSS");
+- Já fui introduzido na parte de JS (é pssível ver o projeto JS no repositório "DIO-project-JS");
+- O curso atualmente se encontra finalizado, com certificado de formatura do 1º Empregotech da Prefeitura de Curitiba.
 
 ## Links Úteis
 - [Basic Syntax MD](https://www.markdownguide.org/basic-syntax/)
 - [HTML Reference](https://www.w3schools.com/tags/default.asp)
 - [Patterns Gallery](https://projects.verou.me/css3patterns/)
 - [Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
+- [Normalize CSS](https://cdnjs.com/libraries/normalize)
 - [Box Shadow Generator](https://cssgenerator.org/box-shadow-css-generator.html)
+- [Media Query](https://getbootstrap.com/docs/5.0/layout/breakpoints/ )
 
 ## Comandos Úteis - Git
 - **dir:** lista de diretórios contidos na pasta que estamos situados; 
